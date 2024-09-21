@@ -7,7 +7,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-# This design flutter project form figma community
+# This design flutter project from figma community
 ![Slide 01](https://github.com/user-attachments/assets/c89dfd14-cc97-405f-a96c-1773b38f53ae)
 
 A few resources to get you started if this is your first Flutter project:
